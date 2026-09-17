@@ -47,6 +47,27 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 
 * **Matura (Mit Auszeichnung bestanden)** — *BG/BORG HIB Liebenau* (Sept. 2012 – June 2020)
   * *Thesis:* Kryptowährungen - Gefahr oder doch lohnendes Ziel für Investoren?
+ 
+## 🤝 Volunteering & Leadership
+
+* **Student Admissions Representative** — *TU Graz (Faculty of CS/BME) & ADVANTAGE AUSTRIA* (Aug. 2025 – June 2026)
+  * Proudly represented the faculty, the Institute of Information Security (ISEC), and promoted Austria as a premier destination for higher education.
+  * Acted as an official university ambassador and advised prospective students at major international educational fairs, including:
+    * International University Fair (IUF) Bucharest 2025
+    * Educatio Budapest 2026
+    * BeST Graz 2025
+
+## 📜 Certificates & Summer Schools
+
+* **Unite! Research School – AI & Cybersecurity** — *Unite! University Network* (Nov. 2025)
+* **Graz Security Week – International Summer School on Cybersecurity** — *ISEC TU Graz* 
+  * 2025 Edition *(Scholarship Holder)*
+  * 2024 Edition
+* **Certificate for Key Competency: "Social Skills and Diversity"** — *TU Graz* (Aug. 2025) [[Program Info](https://www.tugraz.at/en/studying-and-teaching/studying-at-tu-graz/students/certificate-for-key-competencies)]
+* **Custmas Certificate Participation** — *Kozminski University* (Apr. 2025)
+  * Beta Tester of EU Project in B2B Sales as part of the Marketing Management course.
+* **Certificate for Key Competences: "Science Technology and Society (STS)"** — *TU Graz* (Feb. 2025) [[Program Info](https://www.tugraz.at/arbeitsgruppen/sts/lehre/sts-zertifikat)]
+* **Communicating Your Research Clearly in Academic English** — *EPIEM* (Jan. 2025)
 
 ## 📫 Contact & Links
 * **KU Leuven Email:** [sebastian.albu@kuleuven.be](mailto:sebastian.albu@kuleuven.be)
