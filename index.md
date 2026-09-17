@@ -12,7 +12,7 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 * **Artificial Intelligence:** AI Security, Regulatory frameworks and policy approaches.
 * If you have any ideas for a potential collaboration feel free to reach out!
 
-<details>
+<details markdown="1">
 <summary><h2>💼 Experience</h2></summary>
 
 * **PhD Researcher** — *KU Leuven (DistriNet & Dept. of Computer Science)* (Sept. 2026 – Present)
@@ -33,7 +33,7 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><h2>🎓 Education</h2></summary>
 
 * **Master's Degrees** — *TU Graz*
@@ -54,7 +54,7 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><h2>🤝 Volunteering & Leadership</h2></summary>
 
 * **Student Admissions Representative** — *TU Graz (Faculty of CS/BME) & ADVANTAGE AUSTRIA* (Aug. 2025 – June 2026)
@@ -66,7 +66,7 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><h2>📜 Certificates & Summer Schools</h2></summary>
 
 * **Unite! Research School – AI & Cybersecurity** — *Unite! University Network* (Nov. 2025)
@@ -78,7 +78,7 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
   * Beta Tester of EU Project in B2B Sales as part of the Marketing Management course.
 * **Certificate for Key Competences: "Science Technology and Society (STS)"** — *TU Graz* (Feb. 2025) [[Program Info](https://www.tugraz.at/arbeitsgruppen/sts/lehre/sts-zertifikat)]
 * **Communicating Your Research Clearly in Academic English** — *EPIEM* (Jan. 2025)
-* **𝐒𝐮𝐦𝐦𝐞𝐫 𝐒𝐜𝐡𝐨𝐨𝐥 𝐨𝐟 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲, 𝐏𝐫𝐢𝐯𝐚𝐜𝐲 𝐚𝐧𝐝 𝐀𝐈 - DistriNet 2026 in Leuven**
+* **Summer School of Security, Privacy and AI** — *DistriNet 2026 in Leuven*
 
 </details>
 
