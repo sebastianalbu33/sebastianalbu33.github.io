@@ -12,8 +12,8 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 * **Artificial Intelligence:** AI Security, Regulatory frameworks and policy approaches.
 * If you have any ideas for a potential collaboration feel free to reach out!
 
-## 💼 Experience
-
+<details>
+<summary><h2>💼 Experience</h2></summary>
 * **PhD Researcher** — *KU Leuven (DistriNet & Dept. of Computer Science)* (Sept. 2026 – Present)
   * Research focus: Secure Multi-Party Computation and Differential Privacy. Optimizing with AI.
 
@@ -29,7 +29,8 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
   * **Design and Analysis of Algorithms VU** *(Oct. 2025 – Feb. 2026)*
   * **Informatik-FIT UE** *(Aug. 2025 – Dec. 2025)*: Python and HTML fundamentals.
   * **Data Structures and Algorithms 1 UE** *(Feb. 2024 – July 2024)*
-
+ </details>
+ 
 ## 🎓 Education
 
 * **Master's Degrees** — *TU Graz*
