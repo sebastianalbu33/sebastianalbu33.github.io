@@ -1,21 +1,51 @@
 # Sebastian David Albu
 **PhD Researcher at KU Leuven**
 
-Welcome to my personal page. I am currently a PhD student at KU Leuven. Prior to this, I completed my two Master's degrees at Graz University of Technology (TU Graz) supervised by Prof Christian Rechberger. I also worked as a Teaching Assistant on numerous courses.
+Welcome to my personal page. I am currently a PhD student at KU Leuven within the DistriNet Research Unit. Prior to this, I completed my Master's degrees at Graz University of Technology (TU Graz) both supervised by Prof. Christian Rechberger. I also have extensive experience in teaching, having spent over three years as a Teaching Assistant and Co-Lecturer for numerous computer science courses.
 
-## 🎓 Background & Education
-* **PhD Researcher** — *KU Leuven* (Present)
-* **Teaching Assistant** — *TU Graz* (Past)
-* **Master's Degrees** — *TU Graz* 
-  * *Thesis 1:* Secure Multi-Party Computation with Trusted Execution Environments
-  * *Thesis 2:* Künstliche Intelligenz und ihre Regulierungsansätze
+## 🔬 Research Interests
+* **Cryptography & Privacy:** Secure Multi-Party Computation (MPC), Data Anonymization (K-Anonymity), Differential Privacy, and Privacy-Preserving Machine Learning (PPML).
+* **Artificial Intelligence:** AI Security, Regulatory frameworks and policy approaches.
+* If you have any ideas for a potential collaboration feel free to reach out!
 
-## 🔬 Research Interests & Projects
-* **Cryptography & Privacy:** Secure Multi-Party Computation (MPC), Data Anonymization (K-Anonimity), Differential Privacy, and Privacy-Preserving Machine Learning (PPML).
-* **Artificial Intelligence:** Regulatory frameworks and policy approaches.
+## 💼 Experience
+
+* **PhD Researcher** — *KU Leuven (DistriNet & Dept. of Computer Science)* (Sept. 2026 – Present)
+  * Research focus: Secure Multi-Party Computation and Differential Privacy. Optimizing with AI.
+
+* **Researcher (Master's Thesis)** — *TACEO* (May 2025 – May 2026)
+  * Focused on Secure Multi-Party Computation.
+
+* **Teaching Assistant & Co-Lecturer** — *Graz University of Technology (TU Graz)* (Oct. 2022 – June 2026)
+  * **Introduction to Structured Programming KU** *(Feb. 2024 – June 2026)*: Co-Lecturer for practicals (Summer 2025 & 2026). *Nominated for the Price of Excellency in Teaching (Summer 2025).*
+  * **Quality Assurance in Software Development VU** *(Feb. 2024 – June 2026)*: Co-Lecturer. Covered JUnit, Mutation Testing (PIT), Model/Property-Based Testing, Symbolic Execution, and Fuzzing.
+  * **Object Oriented Programming 2 KU** *(Oct. 2022 – Feb. 2026)*: Co-Lecturer (Winter 2024). Covered Java, Spring Boot, gRPC, JavaFX, and GPU Programming (OpenGL/LWJGL).
+  * **Computer Vision 1 & 2 VU** *(Dec. 2023 – July 2025)*: Designed, implemented (OpenCV C++), and supervised advanced assignments including image stitching, crack matching, and geographical computations.
+  * **Societal Aspects of Information Technology VU** *(Sept. 2024 – June 2026)*
+  * **Design and Analysis of Algorithms VU** *(Oct. 2025 – Feb. 2026)*
+  * **Informatik-FIT UE** *(Aug. 2025 – Dec. 2025)*: Python and HTML fundamentals.
+  * **Data Structures and Algorithms 1 UE** *(Feb. 2024 – July 2024)*
+
+## 🎓 Education
+
+* **Master's Degrees** — *TU Graz*
+  * *Thesis (TEE):* [Secure Multi-Party Computation with Trusted Execution Environments](https://repository.tugraz.at/publications/xqkrm-k4f10)
+  * *Thesis (DP):* [Differential Privacy](https://repository.tugraz.at/publications/8cc81-jg524)
+
+* **Research School, AI & Cybersecurity** — *Grenoble INP - UGA (Unite!)* (Oct. 2025 – Nov. 2025)
+  * Grade: 1.0. Worked on a case study focusing on "Cache Template Attacks" supervised by Univ.-Prof. Daniel Gruss.
+
+* **BSc Computer Science** — *TU Graz* (Oct. 2021 – 2024)
+  * *Thesis:* Extended Cryptography Task Generator: Creating new Differential Cryptanalysis and Elliptic Curve Tasks
+
+* **BSc Software Engineering and Management** — *TU Graz* (Oct. 2020 – Aug. 2023)
+  * *Thesis:* Künstliche Intelligenz und ihre Regulierungsansätze (Completed in 6 semesters)
+
+* **Matura (Mit Auszeichnung bestanden)** — *BG/BORG HIB Liebenau* (Sept. 2012 – June 2020)
+  * *Thesis:* Kryptowährungen - Gefahr oder doch lohnendes Ziel für Investoren?
 
 ## 📫 Contact & Links
 * **KU Leuven Email:** [sebastian.albu@kuleuven.be](mailto:sebastian.albu@kuleuven.be)
 * **LinkedIn:** [Sebastian David Albu](https://www.linkedin.com/in/sebastian-david-albu-981b632a3/)
 * **GitHub:** [sebastianalbu33](https://github.com/sebastianalbu33)
-* **KU Leuven Profile:** [TBD](https://www.linkedin.com/in/sebastian-david-albu-981b632a3/)
+* **KU Leuven Profile:** [Who Is Who](https://www.kuleuven.be/wieiswie/en/person/00190785)
