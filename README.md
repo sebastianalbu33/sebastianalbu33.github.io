@@ -1,3 +1,7 @@
+---
+title: Sebastian David Albu - PhD Researcher at KU Leuven
+description: Personal academic profile of Sebastian David Albu, PhD researcher in Cryptography and AI at KU Leuven and former TU Graz Teaching Assistant and Co-Lecturer.
+---
 # Sebastian David Albu
 **PhD Researcher at KU Leuven**
 
