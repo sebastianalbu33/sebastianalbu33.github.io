@@ -78,6 +78,7 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
   * Beta Tester of EU Project in B2B Sales as part of the Marketing Management course.
 * **Certificate for Key Competences: "Science Technology and Society (STS)"** — *TU Graz* (Feb. 2025) [[Program Info](https://www.tugraz.at/arbeitsgruppen/sts/lehre/sts-zertifikat)]
 * **Communicating Your Research Clearly in Academic English** — *EPIEM* (Jan. 2025)
+* **𝐒𝐮𝐦𝐦𝐞𝐫 𝐒𝐜𝐡𝐨𝐨𝐥 𝐨𝐟 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲, 𝐏𝐫𝐢𝐯𝐚𝐜𝐲 𝐚𝐧𝐝 𝐀𝐈 - DistriNet 2026 in Leuven**
 
 </details>
 
