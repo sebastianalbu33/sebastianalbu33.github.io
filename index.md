@@ -34,7 +34,7 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 
 * **Master's Degrees** — *TU Graz*
   * *Thesis (TEE):* [Secure Multi-Party Computation with Trusted Execution Environments](https://repository.tugraz.at/publications/xqkrm-k4f10)
-  * *Thesis (DP):* [Differential Privacy](https://repository.tugraz.at/publications/8cc81-jg524)
+  * *Thesis (DP):* [Efficient Lookup-Table-Based Joint Noise Sampling for Differential Privacy](https://repository.tugraz.at/publications/8cc81-jg524)
 
 * **Research School, AI & Cybersecurity** — *Grenoble INP - UGA (Unite!)* (Oct. 2025 – Nov. 2025)
   * Grade: 1.0. Worked on a case study focusing on "Cache Template Attacks" supervised by Univ.-Prof. Daniel Gruss.
@@ -43,7 +43,7 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
   * *Thesis:* Extended Cryptography Task Generator: Creating new Differential Cryptanalysis and Elliptic Curve Tasks
 
 * **BSc Software Engineering and Management** — *TU Graz* (Oct. 2020 – Aug. 2023)
-  * *Thesis:* Künstliche Intelligenz und ihre Regulierungsansätze (Completed in 6 semesters)
+  * *Thesis:* [Künstliche Intelligenz und ihre Regulierungsansätze](https://www.tugraz.at/arbeitsgruppen/sts/lehre/abschlussarbeiten)
 
 * **Matura (Mit Auszeichnung bestanden)** — *BG/BORG HIB Liebenau* (Sept. 2012 – June 2020)
   * *Thesis:* Kryptowährungen - Gefahr oder doch lohnendes Ziel für Investoren?
