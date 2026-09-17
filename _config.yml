@@ -5,3 +5,6 @@ description: Personal academic profile of Sebastian David Albu, PhD researcher i
 theme: jekyll-theme-hacker
 title: Sebastian David Albu
 description: PhD Researcher at DistriNet KU Leuven | Privacy Enhancing Technologies
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
