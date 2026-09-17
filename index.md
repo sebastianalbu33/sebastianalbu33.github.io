@@ -14,6 +14,7 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 
 <details>
 <summary><h2>💼 Experience</h2></summary>
+
 * **PhD Researcher** — *KU Leuven (DistriNet & Dept. of Computer Science)* (Sept. 2026 – Present)
   * Research focus: Secure Multi-Party Computation and Differential Privacy. Optimizing with AI.
 
@@ -29,9 +30,11 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
   * **Design and Analysis of Algorithms VU** *(Oct. 2025 – Feb. 2026)*
   * **Informatik-FIT UE** *(Aug. 2025 – Dec. 2025)*: Python and HTML fundamentals.
   * **Data Structures and Algorithms 1 UE** *(Feb. 2024 – July 2024)*
- </details>
- 
-## 🎓 Education
+
+</details>
+
+<details>
+<summary><h2>🎓 Education</h2></summary>
 
 * **Master's Degrees** — *TU Graz*
   * *Thesis (TEE):* [Secure Multi-Party Computation with Trusted Execution Environments](https://repository.tugraz.at/publications/xqkrm-k4f10)
@@ -48,8 +51,11 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 
 * **Matura (Mit Auszeichnung bestanden)** — *BG/BORG HIB Liebenau* (Sept. 2012 – June 2020)
   * *Thesis:* Kryptowährungen - Gefahr oder doch lohnendes Ziel für Investoren?
- 
-## 🤝 Volunteering & Leadership
+
+</details>
+
+<details>
+<summary><h2>🤝 Volunteering & Leadership</h2></summary>
 
 * **Student Admissions Representative** — *TU Graz (Faculty of CS/BME) & ADVANTAGE AUSTRIA* (Aug. 2025 – June 2026)
   * Proudly represented the faculty, the Institute of Information Security (ISEC), and promoted Austria as a premier destination for higher education.
@@ -58,7 +64,10 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
     * Educatio Budapest 2026
     * BeST Graz 2025
 
-## 📜 Certificates & Summer Schools
+</details>
+
+<details>
+<summary><h2>📜 Certificates & Summer Schools</h2></summary>
 
 * **Unite! Research School – AI & Cybersecurity** — *Unite! University Network* (Nov. 2025)
 * **Graz Security Week – International Summer School on Cybersecurity** — *ISEC TU Graz* 
@@ -69,6 +78,8 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
   * Beta Tester of EU Project in B2B Sales as part of the Marketing Management course.
 * **Certificate for Key Competences: "Science Technology and Society (STS)"** — *TU Graz* (Feb. 2025) [[Program Info](https://www.tugraz.at/arbeitsgruppen/sts/lehre/sts-zertifikat)]
 * **Communicating Your Research Clearly in Academic English** — *EPIEM* (Jan. 2025)
+
+</details>
 
 ## 📫 Contact & Links
 * **KU Leuven Email:** [sebastian.albu@kuleuven.be](mailto:sebastian.albu@kuleuven.be)
