@@ -105,7 +105,7 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 <details markdown="1">
 <summary><h2>📚 Teaching Materials (TU Graz)</h2></summary>
 
-Here you can find slides and materials from courses where I acted as a Co-Lecturer or Teaching Assistant at Graz University of Technology.
+Here you can find slides and materials from courses where I acted as a "Co-Lecturer" at Graz University of Technology.
 
 * **Introduction to Structured Programming (ISP) - Summer 2026**
   * [Session 0: Introduction & Organization](teaching_graz/isp_2026/ESP_0.pdf)
@@ -115,9 +115,9 @@ Here you can find slides and materials from courses where I acted as a Co-Lectur
   * [Session 4: Advanced Concepts & Data Structures](teaching_graz/isp_2026/ESP_4.pdf)
 
 * **Quality Assurance in Software Development (QA) - Summer 2026**
-  * Assignment 1 "Tutorial": JaCoCo and Pitest](teaching_graz/qa/QS_2026_1.pdf)
-  * Assignment 2 "Tutorial": Property-BasedTesting with ScalaCheck](teaching_graz/qa/QS_2026_2.pdf)
-  * Assignment 3 "Tutorial":  Model-Based&Black-BoxTesting](teaching_graz/qa/QS_2026_3.pdf)
+  * [Assignment 1 "Tutorial": JaCoCo and Pitest](teaching_graz/qa/QS_2026_1.pdf)
+  * [Assignment 2 "Tutorial": Property-BasedTesting with ScalaCheck](teaching_graz/qa/QS_2026_2.pdf)
+  * [Assignment 3 "Tutorial":  Model-Based&Black-BoxTesting](teaching_graz/qa/QS_2026_3.pdf)
 
 * **Object Oriented Programming 2 (OOP2) - Winter 2024**
   * [Session 1: Introduction & Organization](teaching_graz/oop2/OOP2KU_WS2024_01.pdf)
