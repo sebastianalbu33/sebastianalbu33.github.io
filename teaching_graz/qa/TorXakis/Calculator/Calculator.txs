@@ -1,0 +1,64 @@
+{-
+   TorXakis - Model-Based Testing
+   Copyright (c) 2015-2017 TNO and Radboud University
+-}
+
+-- ----------------------------------------------------------------------------------------- --
+-- Model of a Calculator that handles Add, Sub, Mul, and Mod operations.
+-- ----------------------------------------------------------------------------------------- --
+
+TYPEDEF Operation ::=
+    Add { a, b :: Int }
+  | Sub { c, d :: Int }
+  | Mul { e, f :: Int }
+  | Mod { g, h :: Int }
+ENDDEF
+
+-- ----------------------------------------------------------------------------------------- --
+
+FUNCDEF ModCalc (op :: Operation) :: Int ::=
+   IF h(op) <> 0 
+   THEN 
+      g(op) % h(op)  -- modulus computation when h(op) is non-zero
+   ELSE 
+      0              -- return 0 when h(op) is zero
+   FI
+ENDDEF
+
+-- ----------------------------------------------------------------------------------------- --
+
+PROCDEF CalculatorProc [Act :: Operation; Res :: Int] () ::=
+   Act ?op [[ isAdd(op) ]] >-> Res !(a(op) + b(op)) >-> CalculatorProc [Act, Res] ()
+##
+   Act ?op [[ isSub(op) ]] >-> Res !(c(op) - d(op)) >-> CalculatorProc [Act, Res] ()
+##
+   Act ?op [[ isMul(op) ]] >-> Res !(e(op) * f(op)) >-> CalculatorProc [Act, Res] ()
+##
+   Act ?op [[ isMod(op) ]] >-> Res ! ModCalc(op) >-> CalculatorProc [Act, Res] ()
+ENDDEF
+----------------------------------------------------------------------------------------- --
+
+CHANDEF Chans ::= 
+   Action, Action1, Action2, Action3 :: Operation
+ ; Result, Result1, Result2, Result3 :: Int
+ENDDEF
+
+-- ----------------------------------------------------------------------------------------- --
+
+MODELDEF CalculatorModel ::= 
+ CHAN IN    Action
+ CHAN OUT   Result
+ BEHAVIOUR  CalculatorProc [Action, Result] ()
+ENDDEF
+
+-- ----------------------------------------------------------------------------------------- --
+
+CNECTDEF SutConnection ::= 
+ CLIENTSOCK
+
+ CHAN OUT Action HOST "localhost" PORT 7890
+ ENCODE Action ?op -> !toString(op)
+
+ CHAN IN Result HOST "localhost" PORT 7890
+ DECODE Result !fromString(s) <- ?s
+ENDDEF
