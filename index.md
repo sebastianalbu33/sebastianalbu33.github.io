@@ -35,7 +35,9 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 
 <details markdown="1">
 <summary><h2>🎓 Education</h2></summary>
-
+* **Doctor of Philosophy (PhD)** - *KU Leuven Departement Computerwetenschappen*
+ * PhD in Computer Science starting from 2026
+ 
 * **Master's Degrees** — *TU Graz*
   * *Thesis (TEE):* [Secure Multi-Party Computation with Trusted Execution Environments](https://repository.tugraz.at/publications/xqkrm-k4f10)
   * * **Thesis Presentation (MPC + TEE):** [PDF](MA_Presentation_TEE_Handout.pdf)
