@@ -42,6 +42,9 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
   * *Thesis (DP):* [Efficient Lookup-Table-Based Joint Noise Sampling for Differential Privacy](https://repository.tugraz.at/publications/8cc81-jg524)
   * * **Thesis Presentation (MPC + DP):** [PDF](MA_Presentation_LUT_Handout.pdf)
 
+  * **Master's Project** [D-LAMP: Discrete LAplacian MPC Noise-Generating Protocols for Differentially Private Computation](papers/Masterprojekt_Final.pdf)
+  * * **Project Presentation (MPC + DP):** [PDF](papers/Masterprojekt_Presentation-1.pdf)
+
 * **Research School, AI & Cybersecurity** — *Grenoble INP - UGA (Unite!)* (Oct. 2025 – Nov. 2025)
   * Grade: 1.0. Worked on a case study focusing on "Cache Template Attacks" supervised by Univ.-Prof. Daniel Gruss. [PDF](papers/URS.pdf)
 
