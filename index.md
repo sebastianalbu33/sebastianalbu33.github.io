@@ -90,6 +90,7 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 * **Seminar Presentation from Cryptanalysis 2024:** [CodingTheory:The McEliece Public-KeyCryptosystem](papers/Cryptanalysis_Presentation.pdf)
 * **Seminar Presentation from Modern Public Key Cryptography 2025:** [Traceable Secret Sharing: Strong Security and Efficient Constructions](papers/Traceable_SS_ALBU-1.pdf)
 * **Joint Research Project from Unite! Research School 2025:** [What Your Cache Reveals About You](papers/URS.pdf)
+* **Enumerative Combinatoric Algorithms 2025 Assignments:** [PDF](papers/ECA_Ass.pdf)
 
 
 </details>
