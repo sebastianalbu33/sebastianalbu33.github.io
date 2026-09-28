@@ -116,8 +116,8 @@ Here you can find slides and materials from courses where I acted as a "Co-Lectu
 
 * **Quality Assurance in Software Development (QA) - Summer 2026**
   * [Assignment 1 "Tutorial": JaCoCo and Pitest](teaching_graz/qa/QS_2026_1.pdf)
-  * [Assignment 2 "Tutorial": Property-BasedTesting with ScalaCheck](teaching_graz/qa/QS_2026_2.pdf)
-  * [Assignment 3 "Tutorial":  Model-Based&Black-BoxTesting](teaching_graz/qa/QS_2026_3.pdf)
+  * [Assignment 2 "Tutorial": Property-Based Testing with ScalaCheck](teaching_graz/qa/QS_2026_2.pdf)
+  * [Assignment 3 "Tutorial":  Model-Based & Black-Box Testing](teaching_graz/qa/QS_2026_3.pdf)
   * [2025 Tutorial Assignment 1](teaching_graz/qa/QS_Assignment1_Tutorial.pdf)
   * [2025 Tutorial Assignment 2 and TorXakis Tutorial](teaching_graz/qa/QS_Assignment2_Tutorial.pdf)
 
