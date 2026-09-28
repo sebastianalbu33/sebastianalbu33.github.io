@@ -87,7 +87,9 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 
 * **Seminar Paper from Mathematical Foundations of Cryptology 2023:** [Shor's Algorithm and its Implications](papers/ALBU_MFC_SHOR-2.pdf)
 * **Seminar Paper from Cryptanalysis 2024:** [Code-based Cryptography: Implementations and Cryptanalysis](papers/Code-based-Cryptography.pdf)
-* **Seminar Presentation from Cryptanalysis 2024:** [CodingTheory:TheMcEliece Public-KeyCryptosystem](papers/Cryptanalysis_Presentation.pdf)
+* **Seminar Presentation from Cryptanalysis 2024:** [CodingTheory:The McEliece Public-KeyCryptosystem](papers/Cryptanalysis_Presentation.pdf)
+* **Seminar Presentation from Modern Public Key Cryptography 2025:** [Traceable Secret Sharing: Strong Security and Efficient Constructions](papers/Traceable_SS_ALBU-1.pdf)
+
 
 
 </details>
