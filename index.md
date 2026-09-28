@@ -84,6 +84,7 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 * **Certificate for Key Competences: "Science Technology and Society (STS)"** — *TU Graz* (Feb. 2025) [[Program Info](https://www.tugraz.at/arbeitsgruppen/sts/lehre/sts-zertifikat)]
 * **Communicating Your Research Clearly in Academic English** — *EPIEM* (Jan. 2025)
 * **Summer School of Security, Privacy and AI** — *DistriNet 2026 in Leuven*
+* **CSBME Leistungsstipendium** - Multiple years while studying at TU Graz
 
 </details>
 
@@ -95,7 +96,7 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 * **Seminar Presentation from Cryptanalysis 2024:** [CodingTheory:The McEliece Public-KeyCryptosystem](papers/Cryptanalysis_Presentation.pdf)
 * **Seminar Presentation from Modern Public Key Cryptography 2025:** [Traceable Secret Sharing: Strong Security and Efficient Constructions](papers/Traceable_SS_ALBU-1.pdf)
 * **Seminar Paper from Modern Public Key Cryptography 2025:** [Traceable Secret Sharing: Strong Security and Efficient Constructions](papers/Traceable_SS_Summary-1.pdf)
-* **Example of Traceable (Threshold) Secret Sharing using SSS:*** [PDF](papers/Traceable_SSS_Example.pdf)
+* **Example of Traceable (Threshold) Secret Sharing using SSS:** [PDF](papers/Traceable_SSS_Example.pdf)
 * **Joint Research Project from Unite! Research School 2025:** [What Your Cache Reveals About You](papers/URS.pdf)
 * **Formal Specification and Design of Software Presentation 2024:** [Verifying Hyperproperties with TLA](papers/ALBU_FSDS.pdf)
 * **Seminar Paper Presentation from Modern Public Key Cryptography 2024:** [Relations amongst security notions](papers/ALBU_MPKC_PRESENTATION.pdf)
