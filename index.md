@@ -106,16 +106,16 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 Here you can find slides and materials from courses where I acted as a Co-Lecturer or Teaching Assistant at Graz University of Technology.
 
 * **Introduction to Structured Programming (ISP) - Summer 2026**
-  * [Session 0: Introduction](teaching_graz/isp_2026/ESP_0.pdf)
-  * [Session 1: Control Structures & Loops](teaching_graz/isp_2026/ESP_1.pdf)
-  * [Session 2: Functions & Arrays](teaching_graz/isp_2026/ESP_2.pdf)
-  * [Session 3: Pointers & Memory Management](teaching_graz/isp_2026/ESP_3.pdf)
-  * [Session 4: Advanced Topics](teaching_graz/isp_2026/ESP_4.pdf)
+  * [Session 0: Introduction & Organization](teaching_graz/isp_2026/ESP_0.pdf)
+  * [Session 1: Introduction to C](teaching_graz/isp_2026/ESP_1.pdf)
+  * [Session 2: Pointer Arithmetic & Arrays](teaching_graz/isp_2026/ESP_2.pdf)
+  * [Session 3: Structs & Dynamic Memory](teaching_graz/isp_2026/ESP_3.pdf)
+  * [Session 4: Advanced Concepts & Data Structures](teaching_graz/isp_2026/ESP_4.pdf)
 
-* **Quality Assurance in Software Development (QA)**
+* **Quality Assurance in Software Development (QA) - Summer 2026**
   * *Slides coming soon...*
 
-* **Object Oriented Programming 2 (OOP2)**
+* **Object Oriented Programming 2 (OOP2) - Winter 2024**
   * *Slides coming soon...*
 
 </details>
