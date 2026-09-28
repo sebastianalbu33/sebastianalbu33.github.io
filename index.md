@@ -40,13 +40,13 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
   * *Thesis (TEE):* [Secure Multi-Party Computation with Trusted Execution Environments](https://repository.tugraz.at/publications/xqkrm-k4f10)
   * * **Thesis Presentation (MPC + TEE):** [PDF](MA_Presentation_TEE_Handout.pdf)
   * *Thesis (DP):* [Efficient Lookup-Table-Based Joint Noise Sampling for Differential Privacy](https://repository.tugraz.at/publications/8cc81-jg524)
-  * * **Thesis Presentation (MPC + DP):** [PDF](MA_Presentation_DP_Handout.pdf)
+  * * **Thesis Presentation (MPC + DP):** [PDF](MA_Presentation_LUT_Handout.pdf)
 
 * **Research School, AI & Cybersecurity** — *Grenoble INP - UGA (Unite!)* (Oct. 2025 – Nov. 2025)
-  * Grade: 1.0. Worked on a case study focusing on "Cache Template Attacks" supervised by Univ.-Prof. Daniel Gruss.
+  * Grade: 1.0. Worked on a case study focusing on "Cache Template Attacks" supervised by Univ.-Prof. Daniel Gruss. [PDF](papers/URS.pdf)
 
 * **BSc Computer Science** — *TU Graz* (Oct. 2021 – 2024)
-  * *Thesis:* Extended Cryptography Task Generator: Creating new Differential Cryptanalysis and Elliptic Curve Tasks
+  * *Thesis:* Extended Cryptography Task Generator: Creating new Differential Cryptanalysis and Elliptic Curve Tasks  [PDF](papers/Bachelorarbeit_Crypto__1_-6.pdf)
 
 * **BSc Software Engineering and Management** — *TU Graz* (Oct. 2020 – Aug. 2023)
   * *Thesis:* [Künstliche Intelligenz und ihre Regulierungsansätze](https://www.tugraz.at/arbeitsgruppen/sts/lehre/abschlussarbeiten)
