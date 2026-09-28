@@ -116,7 +116,15 @@ Here you can find slides and materials from courses where I acted as a Co-Lectur
   * *Slides coming soon...*
 
 * **Object Oriented Programming 2 (OOP2) - Winter 2024**
-  * *Slides coming soon...*
+  * [Session 1: Introduction & Organization](teaching_graz/oop2/OOP2KU_WS2024_01.pdf)
+  * [Session 2: Spring Boot Introduction](teaching_graz/oop2/OOP2KU_WS2024_02.pdf)
+  * [Session 3:Spring Boot Error Handling and Environmental Variables](teaching_graz/oop2/OOP2KU_WS2024_03.pdf)
+  * [Session 4: gRPC Introduction](teaching_graz/oop2/OOP2KU_WS2024_04.pdf)
+  * [Session 5: OSM, JTS, Geometries, and Data Loading](teaching_graz/oop2/OOP2KU_WS2024_05.pdf)
+  * [Session 6: Data Loading, XML Parsers (DOM, SAX)](teaching_graz/oop2/OOP2KU_WS2024_06.pdf)
+  * [Session 7: Mapping Requests, Graphics2D, GeoTools and Path-Finding Algorithms (Routing)](teaching_graz/oop2/OOP2KU_WS2024_07.pdf)
+  * [Session 8: Fractals, GLSL, LWJGL, GLFW and Java GPU Rendering](teaching_graz/oop2/OOP2KU_WS2024_08.pdf)
+  * [Session X: A Layman’s Introduction to Fractals and the Bonus Assignment](teaching_graz/oop2/OOP2KU_WS2024_Bonus.pdf)
 
 </details>
 
