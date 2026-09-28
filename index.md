@@ -97,6 +97,7 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 * **Seminar Paper from Modern Public Key Cryptography 2025:** [Traceable Secret Sharing: Strong Security and Efficient Constructions](papers/Traceable_SS_Summary-1.pdf)
 * **Example of Traceable (Threshold) Secret Sharing using SSS:*** [PDF](papers/Traceable_SSS_Example.pdf)
 * **Joint Research Project from Unite! Research School 2025:** [What Your Cache Reveals About You](papers/URS.pdf)
+* **Formal Specification and Design of Software Presentation 2024:** [Verifying Hyperproperties with TLA](papers/ALBU_FSDS.pdf)
 * **Enumerative Combinatoric Algorithms 2025 Assignments:** [PDF](papers/ECA_Ass.pdf)
 
 
