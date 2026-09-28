@@ -82,6 +82,14 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 
 </details>
 
+<details markdown="1">
+<summary><h2>📝 Seminar Papers & Selected Works</h2></summary>
+
+* **Seminar Paper from Mathematical Foundations of Cryptology 2023:** [Shor's Algorithm and its Implications](papers/ALBU_MFC_SHOR-2.pdf)
+
+
+</details>
+
 ## 📫 Contact & Links
 * **KU Leuven Email:** [sebastian.albu@kuleuven.be](mailto:sebastian.albu@kuleuven.be)
 * **LinkedIn:** [Sebastian David Albu](https://www.linkedin.com/in/sebastian-david-albu-981b632a3/)
