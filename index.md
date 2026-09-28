@@ -120,6 +120,8 @@ Here you can find slides and materials from courses where I acted as a "Co-Lectu
   * [Assignment 3 "Tutorial":  Model-Based & Black-Box Testing](teaching_graz/qa/QS_2026_3.pdf)
   * [2025 Tutorial Assignment 1](teaching_graz/qa/QS_Assignment1_Tutorial.pdf)
   * [2025 Tutorial Assignment 2 and TorXakis Tutorial](teaching_graz/qa/QS_Assignment2_Tutorial.pdf)
+  * [TorXakis Tutorial Calculator](teaching_graz/qa/TorXakis/Calculator)
+  * [TorXakis Tutorial Points](teaching_graz/qa/TorXakis/Points)
 
 * **Object Oriented Programming 2 (OOP2) - Winter 2024**
   * [Session 1: Introduction & Organization](teaching_graz/oop2/OOP2KU_WS2024_01.pdf)
