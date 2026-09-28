@@ -1,0 +1,133 @@
+{-
+    TorXakis - Model Based Testing
+    Copyright (c) 2015-2017 TNO and Radboud University
+-}
+
+-- Same logic as in Points.txs but syntax explained in depth. Check out also the assignment PDF for more help
+
+-- TYPEDEF defines a new type. Here, we define a "Point" type 
+-- that consists of two integer fields: x and y.
+
+TYPEDEF Point ::= Point { x, y :: Int } ENDDEF
+
+    -- "Point" is a custom type, and it's structured by two fields, "x" and "y", which are both of type Int.
+    
+    -- FUNCDEF defines a function. The function "validPoint" takes a Point (p)
+    -- and returns a Bool indicating whether both x and y are nonzero.
+    
+    FUNCDEF validPoint (p :: Point) :: Bool ::=
+        ( x(p) <> 0 ) /\ ( y(p) <> 0 )
+    ENDDEF
+    
+    -- FUNCDEF introduces a function. Here, "validPoint" checks if the "x" and "y" values of the point are not equal to 0.
+    -- The syntax "x(p)" retrieves the x-coordinate of the point p, similar fashion then for "y(p)".
+    
+    -- FUNCDEF for "inRange": Determines whether p2 is within a defined range of p1.
+    -- The conditions are:
+    -- (i) x(p1) < x(p2) and y(p1) > y(p2), OR
+    -- (ii) x(p1) > x(p2) and y(p1) < y(p2).
+    
+    FUNCDEF inRange (p1, p2 :: Point) :: Bool ::=
+        (( x(p1) < x(p2) ) /\ ( y(p1) > y(p2) ))
+      \/ (( x(p1) > x(p2) ) /\ ( y(p1) < y(p2) ))
+    ENDDEF
+    
+    -- This function "inRange" checks if p2 lies within a specific range of p1, with two possible conditions connected by "OR" (\/).
+    -- It checks:
+    --   - (x(p1) < x(p2) AND y(p1) > y(p2)) OR
+    --   - (x(p1) > x(p2) AND y(p1) < y(p2))
+    
+    -- PROCDEF defines a process behavior.
+    -- "allowedBehaviour" models a process where:
+    -- 1. The system receives a point "p1" through channel "In"
+    --    (only if validPoint(p1) holds).
+    -- 2. It then receives another point "p2" through channel "Out"
+    --    (only if validPoint(p2) and inRange(p1, p2) hold).
+    -- 3. This process repeats indefinitely.
+    
+    PROCDEF allowedBehaviour [ In, Out :: Point ] () ::=
+          In ? p1 [[ validPoint(p1) ]]    -- The process receives a point from channel "In", named "p1".
+      >-> Out ? p2 [[ validPoint(p2) /\ inRange (p1,p2) ]]  -- The process sends a point through "Out" named "p2" (with checks on its validity).
+      >-> allowedBehaviour [In,Out] ()    -- The process recursively calls itself to continue the cycle.
+    ENDDEF
+    
+    -- PROCDEF defines the behavior of a process. "allowedBehaviour" represents an interaction sequence where:
+    -- - "In ? p1" means receiving a point "p1" from the input channel "In".
+    -- - "[[ validPoint(p1) ]]" means that the system will only accept "p1" if it satisfies the "validPoint" function.
+    -- - "Out ? p2" means receiving a point "p2" from the output channel "Out".
+    -- - "[[ validPoint(p2) /\ inRange(p1, p2) ]]" means "p2" must also satisfy "validPoint" and be within the range defined by "p1".
+    -- - ">->" indicates sequential execution: after receiving and checking "p1", the process continues to receive "p2".
+    -- - "allowedBehaviour [In,Out] ()" indicates the process repeats indefinitely.
+    
+    -- CHANDEF defines communication channels.
+    -- "In" and "Out" channels transmit messages of type "Point".
+    
+    CHANDEF Channels ::=
+        In, Out :: Point
+    ENDDEF
+    
+    -- CHANDEF defines communication channels in the system:
+    -- - "In" and "Out" are declared as channels that transmit messages of type "Point".
+    
+    -- MODELDEF defines the full model.
+    -- This model:
+    -- - Declares "In" as an input channel.
+    -- - Declares "Out" as an output channel.
+    -- - Specifies "allowedBehaviour" as the behavior of the model.
+    
+    MODELDEF Model ::=
+        CHAN IN     In
+        CHAN OUT    Out
+        BEHAVIOUR   allowedBehaviour [ In, Out ] ()
+    ENDDEF
+    
+    -- MODELDEF defines the full model:
+    -- - "CHAN IN In" declares the "In" channel as an input channel in the model.
+    -- - "CHAN OUT Out" declares the "Out" channel as an output channel in the model.
+    -- - "BEHAVIOUR allowedBehaviour [ In, Out ] ()" specifies that the "allowedBehaviour" process is the model's behavior, 
+    -- where "In" and "Out" are the communication channels.
+    
+    -- ----------------------------------------------------------------------------------------- --
+    
+    -- CNECTDEF defines a connection to the System Under Test (SUT).
+    -- "Sut" acts as a CLIENT, sending and receiving messages over a socket.
+    
+    CNECTDEF Sut ::=
+        CLIENTSOCK
+        -- CHAN OUT defines an outgoing channel for sending input to the SUT.
+        CHAN OUT  In                        HOST "localhost"  PORT 9999
+        -- ENCODE specifies how to serialize messages before sending.
+        ENCODE    In ? s                    ->  ! toString(s)
+        -- CHAN IN defines an incoming channel for receiving responses from the SUT.
+        CHAN IN   Out                       HOST "localhost"  PORT 9999
+        -- DECODE specifies how to deserialize messages upon receiving.
+        DECODE    Out ! fromString(s)       <-  ? s
+    ENDDEF
+    
+    -- CNECTDEF defines a connection to the System Under Test (SUT):
+    -- - "CLIENTSOCK" means that this is a client-side connection.
+    -- - "CHAN OUT In" defines the outgoing channel for sending data to the SUT over a socket connection to "localhost" on port 9999.
+    -- - "ENCODE In ? s -> ! toString(s)" means that when the point "In" is received, it is converted to a string using the function "toString".
+    -- - "CHAN IN Out" defines the incoming channel for receiving data from the SUT.
+    -- - "DECODE Out ! fromString(s) <- ? s" means when data is received from the "Out" channel, it is decoded using "fromString".
+    -- "Sim" acts as a SERVER that simulates the expected behavior.
+    -- This is useful for testing without an actual SUT.
+    
+    CNECTDEF Sim ::=
+        SERVERSOCK
+        -- Outgoing channel for responses.
+        CHAN OUT  Out                       HOST "localhost"  PORT 9999
+        ENCODE    Out ? s                   ->  ! toString(s)
+        -- Incoming channel for requests.
+        CHAN IN   In                        HOST "localhost"  PORT 9999
+        DECODE    In ! fromString(s)        <-  ? s
+    ENDDEF
+    
+    -- CNECTDEF defines a server-side connection ("Sim") that simulates the expected behavior:
+    -- - "SERVERSOCK" indicates this is a server-side connection.
+    -- - "CHAN OUT Out" is the outgoing channel used by the server to send responses.
+    -- - "ENCODE Out ? s -> ! toString(s)" means that when data is received from the "Out" channel, it is encoded to a string.
+    -- - "CHAN IN In" is the incoming channel used by the server to receive requests.
+    -- - "DECODE In ! fromString(s) <- ? s" means that the data received from the "In" channel is decoded from a string.
+    
+    
