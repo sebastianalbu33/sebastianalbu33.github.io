@@ -100,6 +100,26 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 
 </details>
 
+<details markdown="1">
+<summary><h2>📚 Teaching Materials (TU Graz)</h2></summary>
+
+Here you can find slides and materials from courses where I acted as a Co-Lecturer or Teaching Assistant at Graz University of Technology.
+
+* **Introduction to Structured Programming (ISP) - Summer 2026**
+  * [Session 0: Introduction](teaching_graz/isp_2026/ESP_0.pdf)
+  * [Session 1: Control Structures & Loops](teaching_graz/isp_2026/ESP_1.pdf)
+  * [Session 2: Functions & Arrays](teaching_graz/isp_2026/ESP_2.pdf)
+  * [Session 3: Pointers & Memory Management](teaching_graz/isp_2026/ESP_3.pdf)
+  * [Session 4: Advanced Topics](teaching_graz/isp_2026/ESP_4.pdf)
+
+* **Quality Assurance in Software Development (QA)**
+  * *Slides coming soon...*
+
+* **Object Oriented Programming 2 (OOP2)**
+  * *Slides coming soon...*
+
+</details>
+
 ## 📫 Contact & Links
 * **KU Leuven Email:** [sebastian.albu@kuleuven.be](mailto:sebastian.albu@kuleuven.be)
 * **LinkedIn:** [Sebastian David Albu](https://www.linkedin.com/in/sebastian-david-albu-981b632a3/)
