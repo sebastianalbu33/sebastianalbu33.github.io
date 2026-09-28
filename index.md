@@ -139,6 +139,13 @@ Here you can find slides and materials from courses where I acted as a "Co-Lectu
 
 </details>
 
+<details markdown="1">
+<summary><h2>📚 Teaching Materials (KU Leuven)</h2></summary>
+ Here you can find slides and materials from courses where I acted as a "Co-Lecturer" at KU Leuven.
+ * None at the moment :)
+</details>
+
+
 ## 📫 Contact & Links
 * **KU Leuven Email:** [sebastian.albu@kuleuven.be](mailto:sebastian.albu@kuleuven.be)
 * **LinkedIn:** [Sebastian David Albu](https://www.linkedin.com/in/sebastian-david-albu-981b632a3/)
