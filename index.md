@@ -101,6 +101,7 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 * **Example of Traceable (Threshold) Secret Sharing using SSS:** [PDF](papers/Traceable_SSS_Example.pdf)
 * **Joint Research Project from Unite! Research School 2025:** [What Your Cache Reveals About You](papers/URS.pdf)
 * **Formal Specification and Design of Software Presentation 2024:** [Verifying Hyperproperties with TLA](papers/ALBU_FSDS.pdf)
+* **Formal Specification and Design of Software TLA Implementation 2024:** [Verifying Car Alarm System with TLA](papers/presentation_fsds1.pdf)
 * **Seminar Paper Presentation from Modern Public Key Cryptography 2024:** [Relations amongst security notions](papers/ALBU_MPKC_PRESENTATION.pdf)
 * **Enumerative Combinatoric Algorithms 2025 Assignments:** [PDF](papers/ECA_Ass.pdf)
 
