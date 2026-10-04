@@ -24,7 +24,7 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 * **Teaching Assistant & Co-Lecturer** — *Graz University of Technology (TU Graz)* (Oct. 2022 – June 2026)
   * **Introduction to Structured Programming KU** *(Feb. 2024 – June 2026)*: Co-Lecturer for practicals (Summer 2025 & 2026). *Nominated for the Price of Excellency in Teaching (Summer 2025).*
   * **Quality Assurance in Software Development VU** *(Feb. 2024 – June 2026)*: Co-Lecturer. Covered JUnit, Mutation Testing (PIT), Model/Property-Based Testing, Symbolic Execution, and Fuzzing.
-  * **Object Oriented Programming 2 KU** *(Oct. 2022 – Feb. 2026)*: Co-Lecturer (Winter 2024). Covered Java, Spring Boot, gRPC, JavaFX, and GPU Programming (OpenGL/LWJGL).
+  * **Object Oriented Programming 2 KU** *(Oct. 2022 – Feb. 2026)*: Co-Lecturer (Winter 2024, Lecture on gRPC in 2025). Covered Java, Spring Boot, gRPC, JavaFX, and GPU Programming (OpenGL/LWJGL).
   * **Computer Vision 1 & 2 VU** *(Dec. 2023 – July 2025)*: Designed, implemented (OpenCV C++), and supervised advanced assignments including image stitching, crack matching, and geographical computations.
   * **Societal Aspects of Information Technology VU** *(Sept. 2024 – June 2026)*
   * **Design and Analysis of Algorithms VU** *(Oct. 2025 – Feb. 2026)*
@@ -141,6 +141,8 @@ Here you can find slides and materials from courses where I acted as a "Co-Lectu
   * [Session 7: Mapping Requests, Graphics2D, GeoTools and Path-Finding Algorithms (Routing)](teaching_graz/oop2/OOP2KU_WS2024_07.pdf)
   * [Session 8: Fractals, GLSL, LWJGL, GLFW and Java GPU Rendering](teaching_graz/oop2/OOP2KU_WS2024_08.pdf)
   * [Session X: A Layman’s Introduction to Fractals and the Bonus Assignment](teaching_graz/oop2/OOP2KU_WS2024_Bonus.pdf)
+  * [Slides gRPC from 2025](https://dakantz.at/teaching/2025/oop2/ku/KU_03.pdf)
+  * [Code Examples Java (Same in 2024 and 2025)](https://gitlab.tugraz.at/oop2/ws25/ku-examples)
 
 </details>
 
