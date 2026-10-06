@@ -158,5 +158,6 @@ Here you can find slides and materials from courses where I acted as a "Co-Lectu
 * **LinkedIn:** [Sebastian David Albu](https://www.linkedin.com/in/sebastian-david-albu-981b632a3/)
 * **GitHub:** [sebastianalbu33](https://github.com/sebastianalbu33)
 * **KU Leuven Profile:** [Who Is Who](https://www.kuleuven.be/wieiswie/en/person/00190785)
+* **DistriNet Profile:** [Profile](https://distrinet.cs.kuleuven.be/people/SebastianAlbu)
 
-## Last Updated: September 28, 2026 (Still WIP)
+## Last Updated: October 7, 2026 (Still WIP)
