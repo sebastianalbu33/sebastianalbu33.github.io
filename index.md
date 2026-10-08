@@ -17,6 +17,9 @@ Welcome to my personal page. I am currently a PhD student at KU Leuven within th
 
 * **PhD Researcher** — *KU Leuven (DistriNet & Dept. of Computer Science)* (Sept. 2026 – Present)
   * Research focus: Secure Multi-Party Computation and Differential Privacy. Optimizing with AI.
+  * Current projects:
+   * [DataWise](https://datawise-website-84b3a7.pages.gitlab.kuleuven.be/team.html)
+   * [STaR (Secure Trustworthy data Retention)](https://distrinet1.cs.kuleuven.be/projects/STaR)
 
 * **Researcher (Master's Thesis)** — *TACEO* (May 2025 – May 2026)
   * Focused on Secure Multi-Party Computation.
